@@ -91,7 +91,7 @@ Download [CUHK-SYSU](https://github.com/ShuangLI59/person_search) and [PRW](http
 
 
 ## Pretrained Model
-you can run the following commend to install [ref](https://pypi.org/project/psvis/1.6.0/)
+you can run the following commend to install: ([ref](https://pypi.org/project/psvis/1.6.0/))
    ```bash
    pip install psvis
    ```
@@ -112,13 +112,9 @@ If you use our pretrained model or benchmark in your research, please cite this 
 ```
 
 @inproceedings{tian2024pretrainps,
-
   title={Divide and Conquer: Hybrid Pre-training for Person Search},
-
   author={Yanling Tian, Di Chen, Yunan Liu, Jian Yang, Shanshan Zhang},
-
   booktitle={AAAI},
-
   year={2024}
 
 }
