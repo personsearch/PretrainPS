@@ -3,7 +3,7 @@
 
 ## Introduction
 
-[comment]: <> (This is the implementation for [Anchor-Free Person Search]&#40;https://arxiv.org/abs/2103.11617&#41;.)
+This is the implementation for [Divide and Conquer: Hybrid Pre-training for Person Search]&([https://arxiv.org/abs/2103.11617&](https://arxiv.org/submit/5292080/view)).
 
 [comment]: <> (![demo image]&#40;demo/arch.jpg&#41;)
 
