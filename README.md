@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This is the implementation for Divide and Conquer: Hybrid Pre-training for Person Search. ([arXiv]([https://arxiv.org/submit/5292080/view](https://arxiv.org/abs/2312.07970))
+This is the implementation for Divide and Conquer: Hybrid Pre-training for Person Search. ([arXiv]([https://arxiv.org/submit/5292080/view](https://arxiv.org/abs/2312.07970)))
 
 [comment]: <> (![demo image]&#40;demo/arch.jpg&#41;)
 
